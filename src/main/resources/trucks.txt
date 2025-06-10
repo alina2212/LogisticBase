@@ -1,0 +1,5 @@
+ID,requiresLoading,perishable
+Truck1,true,true
+Truck2,false,false
+Truck3,true,false
+Truck4,false,true
